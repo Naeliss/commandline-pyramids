@@ -5,7 +5,6 @@
 //  Created by Niels Jaspers on 06/03/2024.
 //
 
-import Foundation
 
 class Pyramid {
     var height: Int
